@@ -1,0 +1,14 @@
+c:\users\stefanija\source\repos\Homework1\homework_1\bin\Debug\homework_1.exe.config
+c:\users\stefanija\source\repos\Homework1\homework_1\bin\Debug\homework_1.exe
+c:\users\stefanija\source\repos\Homework1\homework_1\bin\Debug\homework_1.pdb
+c:\users\stefanija\source\repos\Homework1\homework_1\obj\Debug\homework_1.csprojAssemblyReference.cache
+c:\users\stefanija\source\repos\Homework1\homework_1\obj\Debug\homework_1.csproj.CoreCompileInputs.cache
+c:\users\stefanija\source\repos\Homework1\homework_1\obj\Debug\homework_1.exe
+c:\users\stefanija\source\repos\Homework1\homework_1\obj\Debug\homework_1.pdb
+C:\Users\Stefanija\Desktop\mail\repos\repos\Homework1\homework_1\bin\Debug\homework_1.exe.config
+C:\Users\Stefanija\Desktop\mail\repos\repos\Homework1\homework_1\bin\Debug\homework_1.exe
+C:\Users\Stefanija\Desktop\mail\repos\repos\Homework1\homework_1\bin\Debug\homework_1.pdb
+C:\Users\Stefanija\Desktop\mail\repos\repos\Homework1\homework_1\obj\Debug\homework_1.csprojAssemblyReference.cache
+C:\Users\Stefanija\Desktop\mail\repos\repos\Homework1\homework_1\obj\Debug\homework_1.csproj.CoreCompileInputs.cache
+C:\Users\Stefanija\Desktop\mail\repos\repos\Homework1\homework_1\obj\Debug\homework_1.exe
+C:\Users\Stefanija\Desktop\mail\repos\repos\Homework1\homework_1\obj\Debug\homework_1.pdb
